@@ -1,6 +1,6 @@
 # Coffee Sales Analysis
 
-This analysis aims to answer the following questions: 
+## This analysis aims to answer the following questions: 
 
 1. What is the distribution of coffee types and quantities sold
 2. What is the money earned by each coffee type
